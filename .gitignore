@@ -1,0 +1,5 @@
+/src/.vs
+/src/MaintainTimeControlMode/bin
+/src/MaintainTimeControlMode/obj
+*.tmp
+TODO.md
